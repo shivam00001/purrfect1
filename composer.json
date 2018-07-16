@@ -1,0 +1,15 @@
+{
+    "name": "chirgjin/animedl",
+    "description": "Download anime",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Chirag",
+            "email": "chirgjin@gmail.com"
+      }
+    ],
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}
